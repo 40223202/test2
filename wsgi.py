@@ -91,10 +91,10 @@ class Hello(object):
      <html>
     <head>
     <h1>期末考練習1<br />
-    <br />40223247<br />
-    <br />鄭宏詳<br />
+    <br />40223202<br />
+    <br />吳庭儀<br />
 
-    <a href="drawspur">期末2nd個人齒輪嚙合</a>  <br />
+    <a href="drawspur">個人齒輪嚙合</a>  <br />
 
 
 
